@@ -1,0 +1,12 @@
+# Sample requirements.txt
+
+flask==2.2.5
+requests==2.31.0
+numpy==1.25.0
+pandas==2.0.3
+scikit-learn==1.3.0
+jupyter==1.0.0
+gunicorn==20.1.0
+sqlalchemy==2.0.19
+psycopg2-binary==2.9.7
+pytest==7.4.0
